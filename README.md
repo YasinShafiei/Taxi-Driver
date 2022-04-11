@@ -3,7 +3,7 @@
 ### Project Discription :
   This project is an AI system using Rainforcment learning to detect were should the taxi go (With the lowest path cost). 
   
-  This is the mao for this code :
+  This is the mao for this project :
   ```
   Trip number : 4
 +---------+
